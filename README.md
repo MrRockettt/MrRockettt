@@ -23,19 +23,17 @@
 ## 🧰 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=PortSwigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTIgNGgydjE2SDJ6bTQgMEg4djE2aDJ6bTQgMEgxMnYxNmgyejRoMnYtMTZoLTJ6Ii8+PC9zdmc+)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=api&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+
 
 
 

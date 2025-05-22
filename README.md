@@ -3,9 +3,10 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
+<p>
 > Penetration Tester • Bug Bounty Hunter • Cyber Security Enthusiast  
 > Breaking things to build stronger systems
-
+</p>
 </div>
 
 

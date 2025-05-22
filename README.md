@@ -56,5 +56,5 @@
 
 ---
 
-> 🔐 “Secure by design. Built with passion.”  
-> – Salmon Kumar | Penetration Tester | Bug Hunter | Developer
+> 🔐 “In every flaw, I see potential. In every fix, I see progress.”  
+>  Penetration Tester | Bug Hunter | Developer

@@ -2,12 +2,7 @@
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
   
-+-----------------------------+
-| Salmon Kumar               |
-| Penetration Tester · Dev   |
-| “Break · Learn · Harden”   |
-+-----------------------------+
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
 
 
 

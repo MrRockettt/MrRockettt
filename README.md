@@ -2,10 +2,9 @@
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
   
-<img src="https://media.giphy.com/media/M9bRKfFHjW0xG/giphy.gif" width="280" alt="Cyber Grid" />
+<img src="https://media.giphy.com/media/L75QOK5UviT5e/giphy.gif" width="300" alt="Matrix hacker stream" />
 
-> **Crafted in code. Secured by mindset.**
-
+> “The quieter you become, the more you can hear the system.”
 
 
 
@@ -14,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🔒 I'm currently working as a **Cyber Security Engineer**
-- 🌐 Skilled in **Network , Wb, API and Mobile App Penetration Testing**
+- 🌐 Skilled in **Network , Web, API and Mobile App Penetration Testing**
 - 🎓 Ranked Top 2% in global CTFs @TryHackMe | Bug Bounty Hunter with 140+ reported flaws
 - 🚀 Constantly learning **Red Teaming**, **OSINT**, and **Penetration Testing**
 - 🧰 Tools: Burp Suite, Nmap, Wireshark, Postman, Metasploit, Nessus etc.

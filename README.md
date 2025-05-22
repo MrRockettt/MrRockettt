@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
-<p align="center">
   
 <img src="https://media.giphy.com/media/M9bRKfFHjW0xG/giphy.gif" width="280" alt="Cyber Grid" />
 
 > **Crafted in code. Secured by mindset.**
 
 
-</p>
+
 
 ---
 

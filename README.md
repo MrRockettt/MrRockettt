@@ -31,6 +31,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=PortSwigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+![Hack The Box](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 
 

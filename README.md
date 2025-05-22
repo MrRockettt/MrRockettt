@@ -2,9 +2,12 @@
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
   
-<img src="https://media.giphy.com/media/L75QOK5UviT5e/giphy.gif" width="300" alt="Matrix hacker stream" />
++-----------------------------+
+| Salmon Kumar               |
+| Penetration Tester · Dev   |
+| “Break · Learn · Harden”   |
++-----------------------------+
 
-> “The quieter you become, the more you can hear the system.”
 
 
 

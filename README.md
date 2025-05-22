@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
-<h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
 
 <div align="center">

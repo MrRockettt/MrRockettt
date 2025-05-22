@@ -11,10 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 🔒 I'm currently working as a **Cyber Security Engineer**
-- 🌐 Skilled in **Web, API, and Network Penetration Testing**
+- 🌐 Skilled in **Network , Wb, API and Mobile App Penetration Testing**
 - 🎓 Ranked Top 2% in global CTFs @TryHackMe | Bug Bounty Hunter with 140+ reported flaws
-- 🧠 Constantly learning **Red Teaming**, **OSINT**, and **Penetration Testing**
-- 🚀 Building secure & minimal web apps using **React**, and **Django**
+- 🚀 Constantly learning **Red Teaming**, **OSINT**, and **Penetration Testing**
 - 🧰 Tools: Burp Suite, Nmap, Wireshark, Postman, Metasploit, Nessus etc.
 
 
@@ -42,8 +41,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrockettt&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrockettt&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRockettt&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRockettt&layout=compact&theme=radical" height="160" />
 </p>
 
 ---

@@ -31,8 +31,11 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=PortSwigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
-
-[Metasploit](https://img.shields.io/badge/Metasploit-black?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTIgNGgydjE2SDJ6bTQgMEg4djE2aDJ6bTQgMEgxMnYxNmgyejRoMnYtMTZoLTJ6Ii8+PC9zdmc+)  | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)  | ![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTIgNGgydjE2SDJ6bTQgMEg4djE2aDJ6bTQgMEgxMnYxNmgyejRoMnYtMTZoLTJ6Ii8+PC9zdmc+) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=api&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark) |
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTIgNGgydjE2SDJ6bTQgMEg4djE2aDJ6bTQgMEgxMnYxNmgyejRoMnYtMTZoLTJ6Ii8+PC9zdmc+)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=api&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
 
 
 

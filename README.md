@@ -1,56 +1,63 @@
-<h1 align="center">Hi 👋, I'm Salmon Kumar</h1>
-<h3 align="center">Cybersecurity Engineer | Bug Bounty Hunter | Full-Stack Developer</h3>
-
----
-
-🛡️ I'm a passionate **Cybersecurity Engineer** with a strong background in:
-
-- 🔍 Vulnerability Assessment & Penetration Testing (VAPT)
-- 🎯 Bug Bounty Hunting & Offensive Security
-- 🛡️ Active Directory Exploitation & Endpoint Defense
-- 🧠 OSINT & Social Engineering
-- 🌐 Full-Stack Development (Django, React, Next.js)
-- 🎓 Top 2% TryHackMe CTF Player | Reported 140+ vulnerabilities
-
----
-
-### 📸 Outside Work
-
-When I’m not securing systems or breaking into apps (legally 😄), you’ll find me:
-
-- Capturing moments through **mobile photography**
-- Practicing my Malayalam 🇮🇳
-- Playing **BGMI** 🎮 with friends
-- Exploring new CTFs & Red Team Labs
-
----
-
-### 🔗 My Work
-
-🚀 **Portfolio**: [mrrockettt.github.io](https://mrrockettt.github.io)
-
-🔍 **Hack The Box**: [TryHackMe](https://tryhackme.com/p/Salmon)
-
-📄 **Writeups, Tools, Notes**: Coming soon...
-
----
-
-### 📬 Get in Touch
-
-- ✉️ [Email](mailto:salmonkumar@pm.me)
-- 📸 [Photography Instagram](https://instagram.com/salmon.shots)
-- 👨‍💻 [GitHub Projects](https://github.com/SalmonKumar)
-- 🔒 [LinkedIn](https://linkedin.com/in/salmonkumar)
-
----
-
-### ⚙️ GitHub Stats
+<h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
+<h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmonKumar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SalmonKumar&theme=radical" width="48%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <img src="https://komarev.com/ghpvc/?username=mrrockettt&label=Profile%20views&color=0e75b6&style=flat" alt="mrrockettt" />
 </p>
 
 ---
 
-> "Security isn’t a feature. It’s a **culture**." – Me 😎
+## 🧑‍💻 About Me
+
+- 🔒 I'm currently working as a **Cyber Security Engineer**
+- 🌐 Skilled in **Web, API, and Network Penetration Testing**
+- 🎓 Ranked Top 2% in global CTFs @TryHackMe | Bug Bounty Hunter with 80+ reported flaws
+- 🧠 Constantly learning **Red Teaming**, **OSINT**, and **Mobile App Pentesting**
+- 🚀 Building secure & minimal web apps using **Jekyll**, **React**, and **Django**
+- 🧰 Tools: Burp Suite, Nmap, Wireshark, Postman, Metasploit, etc.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Recognized in multiple **Hall of Fame** programs on Bugcrowd
+- 🥈 CRTA (Red Team Analyst) Student @CyberWarfare Labs
+- 📢 Conducted cybersecurity workshops & developer awareness sessions
+
+---
+
+## 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=PortSwigger&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrockettt&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrockettt&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrockettt/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_rockettt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrrockettt/)
+[![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
+
+---
+
+> 🔐 “Secure by design. Built with passion.”  
+> – Salmon Kumar | Penetration Tester | Bug Hunter | Developer

@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
-<div align="center">
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Engineer;Bug+Bounty+Hunter;OSINT+%7C+Red+Teaming+%7C+CTF+Player;Breaking+things+to+build+stronger+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=635&lines=Cyber+Security+Engineer;Bug+Bounty+Hunter;OSINT+%7C+Red+Teaming+%7C+CTF+Player;Breaking+things+to+build+stronger+systems" alt="Typing SVG" />
 </div>
 
 ---

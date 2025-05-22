@@ -3,54 +3,23 @@
 
 ---
 
-🛡️ I'm a passionate **Cybersecurity Engineer** with a strong background in:
+🔐 Passionate about **offensive security** and building secure web applications.
 
-- 🔍 Vulnerability Assessment & Penetration Testing (VAPT)
-- 🎯 Bug Bounty Hunting & Offensive Security
-- 🛡️ Active Directory Exploitation & Endpoint Defense
-- 🧠 OSINT & Social Engineering
-- 🌐 Full-Stack Development (Django, React, Next.js)
-- 🎓 Top 2% TryHackMe CTF Player | Reported 140+ vulnerabilities
+💻 Currently working on:
+- Penetration Testing (Web, API, Network, Mobile)
+- Bug Hunting on HackerOne & Bugcrowd
+- OSINT & Social Engineering
+- Full-stack projects using Django, React, Next.js
+- CTFs on TryHackMe & Hack The Box
 
----
-
-### 📸 Outside Work
-
-When I’m not securing systems or breaking into apps (legally 😄), you’ll find me:
-
-- Capturing moments through **mobile photography**
-- Practicing my Malayalam 🇮🇳
-- Playing **BGMI** 🎮 with friends
-- Exploring new CTFs & Red Team Labs
+📸 Outside of tech, I enjoy **mobile photography** and capturing creative perspectives.
 
 ---
 
-### 🔗 My Work
+### 🧠 Tech & Tools
 
-🚀 **Portfolio**: [mrrockettt.github.io](https://mrrockettt.github.io)
-
-🔍 **Hack The Box**: [TryHackMe](https://tryhackme.com/p/Salmon)
-
-📄 **Writeups, Tools, Notes**: Coming soon...
-
----
-
-### 📬 Get in Touch
-
-- ✉️ [Email](mailto:salmonkumar@pm.me)
-- 📸 [Photography Instagram](https://instagram.com/salmon.shots)
-- 👨‍💻 [GitHub Projects](https://github.com/SalmonKumar)
-- 🔒 [LinkedIn](https://linkedin.com/in/salmonkumar)
-
----
-
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmonKumar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SalmonKumar&theme=radical" width="48%" />
-</p>
-
----
-
-> "Security isn’t a feature. It’s a **culture**." – Me 😎
+```bash
+Languages   : Python, JavaScript, Bash, HTML/CSS
+Frameworks  : Django, React, Next.js
+Security    : Burp Suite, Nmap, Wireshark, Metasploit
+Tools       : Git, Linux, Postman, ZAP, Gobuster, Dirsearch

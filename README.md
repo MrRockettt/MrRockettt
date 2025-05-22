@@ -2,10 +2,11 @@
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RqAHkvXPayf5m/giphy.gif" width="300" alt="Futuristic hacking interface" />
+  
+<img src="https://media.giphy.com/media/M9bRKfFHjW0xG/giphy.gif" width="280" alt="Cyber Grid" />
 
-> Penetration Tester • Bug Bounty Hunter • DevSecOps Enthusiast  
-> Breaking things to build stronger systems 🔐
+> **Crafted in code. Secured by mindset.**
+
 
 </p>
 

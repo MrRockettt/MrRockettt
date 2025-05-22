@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
 
-  
+<center>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
-
+</center>
 
 
 ---

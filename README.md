@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <img src="https://komarev.com/ghpvc/?username=mrrockettt&label=Profile%20views&color=0e75b6&style=flat" alt="mrrockettt" />
+  <img src="https://komarev.com/ghpvc/?username=MrRockettt&label=Profile%20views&color=0e75b6&style=flat" alt="MrRockettt" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrockettt/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_rockettt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrrockettt/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_rockettt/)
 [![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
 
 ---

@@ -1,9 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Salmon Kumar</h1>
 <h3 align="center">A Passionate Cybersecurity Engineer & Developer from India</h3>
+<div align="center">
 
-<center>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
-</center>
+> Penetration Tester • Bug Bounty Hunter • Cyber Security Enthusiast  
+> Breaking things to build stronger systems
+
+</div>
 
 
 ---

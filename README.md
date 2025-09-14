@@ -9,7 +9,7 @@
 - 🔒 **Current Role:** Cyber Security Engineer
 - 🌐 **Specialization:** Network, Web, API and Mobile App Penetration Testing
 - 🎯 **Achievements:** Top 2% Global Rank on TryHackMe | 140+ Security Vulnerabilities Reported
-- 📚 **Learning:** Red Teaming, OSINT, and Advanced Penetration Testing Techniques
+- 📚 **Skills:** Red Teaming, OSINT, and Penetration Testing Techniques
 - 🛠️ **Tools:** Burp Suite, Nmap, Wireshark, Postman, Metasploit, Nessus
 
 ---
@@ -44,16 +44,6 @@
 
 ---
 
-## Current Focus
-
-- 🎯 Advancing Red Teaming skills
-- 🔍 Expanding OSINT capabilities  
-- 📱 Learning Mobile App Security Testing
-- 🌐 Improving API Security Assessment techniques
-- 📖 Preparing for security certifications
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -74,4 +64,4 @@
 
 *"In every flaw, I see potential. In every fix, I see progress."*
 
-**Penetration Tester | Bug Hunter | Developer**
+**Pentester | Bug Hunter | Developer**

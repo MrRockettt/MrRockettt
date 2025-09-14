@@ -1,9 +1,12 @@
-# Hi there 👋, I'm Salmon Kumar
+<h1 align="center">Hi there, I'm <a href="https://github.com/MrRocketttt">Salmon Kumar</a> 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/MrRocketttt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=800&lines=Hacker;Security+Researcher;Bug+Bounty+Hunter">
+  </a>
+</p>
 
 <img align="right" alt="Cybersecurity" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-
-**Cyber Security Engineer | Bug Bounty Hunter | CTF Player**
 
 ---
 
@@ -19,24 +22,17 @@
 
 ---
 
-## 🛡️ Security Expertise
+## 🔑 Skills & Expertise
 
-<img align="left" alt="Security" width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif">
-
-
-**Vulnerability Assessment & Penetration Testing**
-- Network Infrastructure Security Testing
-- Web Application Vulnerability Assessment  
-- API Security Testing & Analysis
-- Mobile Application Security Review
-- OSINT (Open Source Intelligence)
-- Social Engineering Assessment
-
-**Security Tools & Methodologies**
-- Vulnerability Scanning & Analysis
-- Manual Testing Techniques
-- Security Reporting & Documentation
-- Risk Assessment & Mitigation
+- **Vulnerability Research**
+- **Web Application Security**
+- **Reverse Engineering**
+- **Social Engineering**
+- **OSINT**
+- **API Testing**
+- **Network Pen-Testing**
+- **Active Directory Pen-Testing**
+- **Web LLM (AI) Testing**
 
 <br clear="left"/>
 
@@ -62,25 +58,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 <br clear="right"/>
-
----
-
-## 🔧 Security Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" alt="Tools">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" alt="Linux">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" alt="Network">
-</div>
-
-| Category | Tools |
-|----------|-------|
-| **Web App Testing** | Burp Suite, OWASP ZAP, Postman |
-| **Network Scanning** | Nmap, Masscan, Nessus |
-| **Exploitation** | Metasploit, Custom Scripts |
-| **Traffic Analysis** | Wireshark, tcpdump |
-| **Operating Systems** | Kali Linux, Ubuntu, Windows |
-| **Practice Platforms** | TryHackMe, Hack The Box, PortSwigger Labs |
 
 ---
 
@@ -113,7 +90,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
   <br><br>
-  <em>"In every vulnerability, I see an opportunity to strengthen security."</em>
+<p align="center">
+  <strong>"Stay curious, stay ethical, and never stop learning."</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=F77B33&center=true&vCenter=true&width=600&lines=Hack+the+Planet!" />
+</p>
   <br><br>
   <strong>Pentester | Bug Hunter | Developer</strong>
 </div>

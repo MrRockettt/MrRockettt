@@ -162,22 +162,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_rockettt/)
 [![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
 
-### 💬 Let's Collaborate
-- 🤝 **Open to:** Learning collaborations, CTF teams
-- 💡 **Interested in:** Security research discussions
-- 🎯 **Looking for:** Mentorship opportunities
-- 📚 **Sharing:** My learning journey and discoveries
-
-</div>
-
----
-
-## 💭 My Philosophy
-
-<div align="center">
-  <img src="https://readme-quotes-api.herokuapp.com/quote?font=default&theme=dark&animation=grow_out_in&quote=In%20every%20flaw,%20I%20see%20potential.%20In%20every%20fix,%20I%20see%20progress.&author=Penetration%20Tester%20|%20Bug%20Hunter%20|%20Developer&bgcolor=%23151515&fontcolor=%2300ff00" alt="Philosophy Quote"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Activity

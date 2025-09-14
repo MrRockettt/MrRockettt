@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/MrRocketttt">Salmon Kumar</a> 👋</h1>
+<h2 align="center">Hi there, I'm <a href="https://github.com/MrRocketttt">Salmon Kumar</a> 👋</h2>
 
 <p align="center">
   <a href="https://github.com/MrRocketttt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=800&lines=Hacker;Security+Researcher;Bug+Bounty+Hunter">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=900&lines=Ethical+Hacker;Security+Researcher;Bug+Bounty+Hunter">
   </a>
 </p>
 
 <img align="right" alt="Cybersecurity" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+<br>
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -69,16 +69,13 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrockettt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrockettt)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_rockettt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_rockettt/)
 [![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-  <br><br>
 <p align="center">
   <strong>"Stay curious, stay ethical, and never stop learning."</strong>
 </p>

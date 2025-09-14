@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Salmon Kumar
 
 <img align="right" alt="Cybersecurity" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-# Hi there 👋, I'm Salmon Kumar
 
-<img align="right" alt="Cybersecurity" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 **Cyber Security Engineer | Bug Bounty Hunter | CTF Player**
 
@@ -25,7 +23,8 @@
 
 <img align="left" alt="Security" width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif">
 
-**Penetration Testing & Assessment**
+
+**Vulnerability Assessment & Penetration Testing**
 - Network Infrastructure Security Testing
 - Web Application Vulnerability Assessment  
 - API Security Testing & Analysis
@@ -46,7 +45,6 @@
 ## 💻 Technical Stack
 
 ### Programming & Scripting
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -83,16 +81,6 @@
 | **Traffic Analysis** | Wireshark, tcpdump |
 | **Operating Systems** | Kali Linux, Ubuntu, Windows |
 | **Practice Platforms** | TryHackMe, Hack The Box, PortSwigger Labs |
-
----
-
-## 🎯 Current Learning Path
-
-- 🔴 **Red Team Operations** - Advanced persistence techniques
-- 🕵️ **OSINT Mastery** - Advanced reconnaissance methods  
-- 📱 **Mobile Security** - iOS/Android application testing
-- ☁️ **Cloud Security** - AWS/Azure security assessment
-- 🎓 **Certifications** - Working towards OSCP, CEH
 
 ---
 

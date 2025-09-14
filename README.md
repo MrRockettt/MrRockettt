@@ -111,48 +111,6 @@
 
 ---
 
-## 🎯 What I'm Working On
-
-<div align="center">
-
-### 🔍 Current Projects
-- 📱 **Mobile App Security Testing** - Learning iOS/Android pentesting
-- 🌐 **API Security Research** - Building custom testing methodologies  
-- 🔒 **Network Security Labs** - Setting up home lab environments
-- 📖 **Security Blog** - Documenting my learning journey
-
-### 🚀 Skills I'm Developing
-| Area | Progress | Focus |
-|------|----------|-------|
-| 🕸️ Web App Security | ████████░░ | SQLi, XSS, IDOR |
-| 🔗 API Testing | ██████░░░░ | REST/GraphQL Security |
-| 📱 Mobile Security | ████░░░░░░ | Android/iOS Basics |
-| 🌐 Network Testing | ███████░░░ | Internal/External |
-| 🔍 OSINT | ██████░░░░ | Social Media Intel |
-| 🎯 Red Teaming | ███░░░░░░░ | Beginner Level |
-
-</div>
-
----
-
-## 🏅 Certifications & Learning Path
-
-<div align="center">
-  
-### 🎓 Completed
-- 🏆 **TryHackMe** - Multiple learning paths completed
-- 🔒 **Web Application Security** - Fundamentals
-- 🌐 **Network Security** - Basic to Intermediate
-
-### 🎯 Working Towards
-- 📜 **OSCP** - Offensive Security Certified Professional
-- 🔍 **GPEN** - GIAC Penetration Tester
-- 🛡️ **CEH** - Certified Ethical Hacker
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -161,14 +119,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_rockettt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_rockettt/)
 [![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRockettt&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" alt="Activity Graph"/>
-</div>
 
 ---
 

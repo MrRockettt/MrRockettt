@@ -16,7 +16,6 @@
 ## 👨‍💻 About Me
 
 - 🔒 **Current Role:** Cyber Security Engineer
-- 🎯 **Achievements:** Top 2% Global Rank on TryHackMe | 140+ Security Vulnerabilities Reported
 - 📍 **Focus Areas:** Network Security, Web Application Testing, API Security
 - 🏆 **Experience:** Penetration Testing, Vulnerability Assessment, Security Research
 - 💡 **Interests:** Red Teaming, OSINT, Ethical Hacking, CTF Competitions

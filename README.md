@@ -1,7 +1,7 @@
-<h2 align="center">Hi there, I'm <a href="https://github.com/MrRocketttt">Salmon Kumar</a>👋</h2>
+<h2 align="center">Hi there, I'm <a href="https://github.com/0xSalm0n">Salmon Kumar</a>👋</h2>
 
 <p align="center">
-  <a href="https://github.com/MrRocketttt">
+  <a href="https://github.com/0xSalm0n">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=900&lines=Ethical+Hacker;Security+Researcher;Bug+Bounty+Hunter">
   </a>
 </p>
@@ -69,10 +69,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrockettt)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xsalm0n/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xsalmon)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xSalm0n/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xsalmon/)
-[![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrrockettt.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://0xsalm0n.github.io/)
 
 ---
 

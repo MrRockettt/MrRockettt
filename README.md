@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🔒 **Current Role:** Cyber Security Engineer  
-- 📍 **Focus Areas:** Network Security, Web Application Testing, API Security  
+- 📍 **Focus Areas:** Network Security, Application Security, API Security and DevSecOps 
 - 🏆 **Experience:** Penetration Testing, Vulnerability Assessment, Security Research  
 - 💡 **Interests:** Red Teaming, OSINT, Ethical Hacking, CTF Competitions
 
